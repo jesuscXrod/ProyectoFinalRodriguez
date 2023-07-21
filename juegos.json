@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "precio": 15,
+    "titulo": "Assassins Creed: Valhalla",
+    "imagen": "assassins-creed-valhalla.png",
+    "menorEdad": false
+  },
+  {
+    "id": 2,
+    "precio": 25,
+    "titulo": "The Legend of Zelda: Tears of the Kingdom",
+    "imagen": "zelda.jpg",
+    "menorEdad": true
+  },
+  {
+    "id": 3,
+    "precio": 50,
+    "titulo": "Diablo IV",
+    "imagen": "diablo-4.png",
+    "menorEdad": false
+  },
+  {
+    "id": 4,
+    "precio": 15,
+    "titulo": "The Sims 4",
+    "imagen": "sims4.webp",
+    "menorEdad": true
+  }
+]
